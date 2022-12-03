@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/css/index.css">
+    <link rel="shortcut icon" href="../static/images/profile-user.png" type="image/x-icon">
+    <title>About Me-thevedantchourey</title>
+</head>
+<body>
+    <div>
+        <nav class="nav">
+            <div class="nav-left">Home</div>
+            <div class="nav-right">
+                <li class="port">Portfolio</li>
+                <li class="aboutme">About Me</li>
+                <li class="Social">Socials</li>
+            </div>
+        </nav>
+        <img src="" alt="">
+        <h1 class="greeting">Hey!</h1>
+        <h2 class="name">I'm Vedant</h2>
+        <h2 class="line">Learning limits are way beyond your imagination!</h2>
+        <img class="me" src="../static/images/Screenshot_20210809-222203_Instagram-removebg-preview.png" alt="">
+    </div>
+    <h2 class="about">About me</h2>
+    <div class="box">
+        <div class="am">
+            <h5 class="con">
+                👉 I am an engineering student .
+            </h5>
+            <h5 class="con">
+                👉 I know programming languages like Python, Html, Css, Javascript, MySql and I also know frameworks like Chakra UI & Bootstrap.
+            </h5>
+            <h5 class="con">
+                👉 focusing on becoming a suprior programmer.
+            </h5>
+            <h5 class="con">
+                👉  Right now looking for internships.
+            </h5>
+            <h5 class="con">
+                👉 you can contact me through my socials @.
+            </h5>
+            </div>
+    </div>
+    <h2 class="po">Portfolio</h2>
+    <div class="box2">
+        <div class="ach">
+            <h2>Achievements</h2>
+            <img src="../static/images/Screenshot (9).png" alt="">
+            <img src="../static/images/Screenshot (13).png" alt="">
+        </div>
+        <div class="ach">
+            <h2 class="pr">Projects</h2>
+            <a href="https://drive.google.com/file/d/11UqhQBlhmrwqQn3N7wlyaSpn7l-DFDgq/view?usp=share_link" class="pro">Frontend of an estate site image</a>
+            <a href="https://drive.google.com/file/d/1m_0yPhG6-jSwn9Mch3JQCzFK_6S2mx9L/view?usp=share_link" class="pro">Profile-Cards</a>
+        </div>
+     </div>
+     <h2 class="soc">Socials</h2>
+     <div class="box3">
+        <h2 class="email">Email - vedantchourey99@gmail.com</h2>
+        <h2 class="insta">Instagram - @thevedantchourey</h2>
+     </div>
+</body>
+<script>
+    let button = document.querySelector('.aboutme');
+    let aboutme = document.querySelector('.about');
+    let port = document.querySelector('.po');
+    let home = document.querySelector('.me');
+    let button2 = document.querySelector('.nav-left');
+    let button3 = document.querySelector('.port');
+    let socials = document.querySelector('.soc');
+    let button4 = document.querySelector('.Social');
+
+    button.onclick = function() {
+      aboutme.scrollIntoView()
+    }
+    button2.onclick = function() {
+        home.scrollIntoView()
+    }
+    button3.onclick = function() {
+        port.scrollIntoView()
+    }
+    button4.onclick = function() {
+        socials.scrollIntoView()
+    }
+    window.addEventListener("scroll", function(){
+        var navbar = document.querySelector(".nav");
+        navbar.classList.toggle('sticky')
+    })
+</script>
+</html>
