@@ -1,6 +1,10 @@
 # About Me:
 🔭 I'm currently working on A notes app.<br>📈 I’m an engineering student<br>🎯 And an aspiring Android developer.<br>🏅 I have successfully completed three Intermediate Android Projects
 
+## 🏆 Completed Projects:
+  News App: tittle-tattle
+  Weather App: Fore-Cast
+  Music Player App: Bliss Music
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thevedantchourey/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedant-r-j-chourey-a6056224b) 
