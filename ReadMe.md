@@ -2,8 +2,8 @@
 🔭 I'm currently working on A notes app.<br>📈 I’m an engineering student<br>🎯 And an aspiring Android developer.<br>🏅 I have successfully completed three Intermediate Android Projects
 
 ## 🏆 Completed Projects:
-  News App: tittle-tattle
-  Weather App: Fore-Cast
+  News App: tittle-tattle<br>
+  Weather App: Fore-Cast<br>
   Music Player App: Bliss Music
 
 ## Socials:
