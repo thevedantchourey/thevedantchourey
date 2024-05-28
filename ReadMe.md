@@ -6,6 +6,9 @@
   Weather App: Fore-Cast<br>
   Music Player App: Bliss Music
 
+## Portfolio:
+[![thevedantchourey.pf](https://img.shields.io/badge/Person-%23E4405F.svg?logo=Instagram&logoColor=white)](https://thevedantchourey-portfolio.netlify.app/)
+
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thevedantchourey/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedant-r-j-chourey-a6056224b) 
 
