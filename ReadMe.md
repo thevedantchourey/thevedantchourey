@@ -1,3 +1,10 @@
+
+
+https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d58b-4ace-b7fd-d5055f2f064d
+
+
+---
+
 ## About Me:
 🔭 I have just completed my final project.<br>📈 I’m an engineering student<br>🎯 And an aspiring Android developer.<br>🏅 I have successfully completed three Intermediate Android Projects
 
@@ -31,15 +38,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thevedantchourey&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
----
-
-https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d58b-4ace-b7fd-d5055f2f064d
-
-
-
-
-
-
 
