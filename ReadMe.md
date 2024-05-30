@@ -33,7 +33,8 @@
 [![](https://visitcount.itsvg.in/api?id=thevedantchourey&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[<img src="https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d58b-4ace-b7fd-d5055f2f064d" width="600" height="300" />]
+
+![](https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d58b-4ace-b7fd-d5055f2f064d)
 
 
 
