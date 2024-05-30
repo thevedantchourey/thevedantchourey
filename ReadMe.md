@@ -32,10 +32,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=thevedantchourey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<video width="320" height="190" controls>
-    <source src="https://github.com/thevedantchourey/assets/99128806/db32130a-0004-4a79-852c-fd1d69b2d52d.mp4" type="video/mp4">
-</video>
 
-![](https://github.com/thevedantchourey/assets/99128806/db32130a-0004-4a79-852c-fd1d69b2d52d.mp4)
+[<img src="https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d58b-4ace-b7fd-d5055f2f064d" width="600" height="300" />]
+
+
+
+
+
 
 
