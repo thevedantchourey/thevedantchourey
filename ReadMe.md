@@ -12,7 +12,8 @@ https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d5
 ## 🏆 Completed Projects:
   News App: tittle-tattle<br>
   Weather App: Fore-Cast<br>
-  Music Player App: Bliss Music
+  Music Player App: Bliss Music<br>
+  Ice-Cream Delivery App: HeemCream
 
 ## Portfolio:
 [![thevedantchourey.pf](https://img.shields.io/badge/thevedantchourey.pf-%23E4470F.svg?logo=Person&logoColor=white)](https://thevedantchourey-portfolio.netlify.app/)
