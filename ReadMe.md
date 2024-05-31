@@ -39,5 +39,5 @@ https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d5
 ![](https://github-contributor-stats.vercel.app/api?username=thevedantchourey&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thevedantchourey&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=thevedantchourey&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
