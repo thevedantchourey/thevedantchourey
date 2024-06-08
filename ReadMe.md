@@ -10,8 +10,8 @@ https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d5
 🔭 I have just completed my final project.<br>📈 I’m an engineering student<br>🎯 And an aspiring Android developer.<br>🏅 I have successfully completed three Intermediate Android Projects
 
 ## 🏆 Completed Projects:
-  News App: tittle-tattle<br>
   Weather App: Fore-Cast<br>
+  News App: tittle-tattle<br>
   Music Player App: Bliss Music<br>
   Ice-Cream Delivery App: HeemCream
 
