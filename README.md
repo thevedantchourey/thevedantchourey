@@ -50,5 +50,5 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 
 <br>
 
-<iframe width="560" height="315" src="./.media/feat.project2.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://github.com/thevedantchourey/thevedantchourey/blob/main/.media/feat.Project2.mp4" frameborder="0" allowfullscreen></iframe>
 
