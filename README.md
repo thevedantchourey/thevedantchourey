@@ -38,8 +38,6 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 
 <br>
 
-https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d58b-4ace-b7fd-d5055f2f064d
-<br>
 
 
 ## Socials
@@ -48,3 +46,10 @@ https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d5
 [![GitHub](https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=0a0a0a&logo=github&logoColor=478bff)](https://github.com/thevedantchourey)
 [![Linkedin](https://img.shields.io/static/v1?style=flat-square&label=&message=LinkedIn&color=0a0a0a&logo=linkedin&logoColor=478bff)](https://github.com/thevedantchourey)
 [![Mail](https://img.shields.io/static/v1?style=flat-square&label=&message=Mail&color=0a0a0a&logo=gmail&logoColor=478bff)](mailto:vedantchourey99@gmail.com)
+
+
+<br>
+
+
+
+https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d58b-4ace-b7fd-d5055f2f064d
