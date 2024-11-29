@@ -36,7 +36,9 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=thevedantchourey&show_icons=true&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)](https://github.com/thevedantchourey)| [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=thevedantchourey&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)](https://github.com/thevedantchourey)|
 
+<br>
 
+https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d58b-4ace-b7fd-d5055f2f064d
 <br>
 
 
