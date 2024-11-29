@@ -51,4 +51,4 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 <br>
 
 
-<iframe loading="lazy" className="shrtfilm" src="./.media/feat.project2.mp4?autoplay=1&loop=1" />
+<video autoPlay muted loop><source src="feat.project2.mp4" type="video/mp4" >
