@@ -50,5 +50,5 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 
 <br>
 
+<iframe width="560" height="315" src="./.media/feat.project2.mp4" frameborder="0" allowfullscreen></iframe>
 
-<div><video autoPlay muted loop><source src="./.media/feat.project2.mp4" type="video/mp4" ></div>
