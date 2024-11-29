@@ -1,4 +1,5 @@
-[![](./.media/Hey_There-intro.png)](https://thevedantchourey-portfolio.netlify.app/)
+<div align="center"><a href="https://thevedantchourey-portfolio.netlify.app/"><img src="./.media/Hey_There-intro.png"/></a></div>
+
 
 <p align="center">
 I am an Android Developer.<br> 
@@ -7,7 +8,8 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 
 <br>
 
-[![](./.media/break.png)](https://thevedantchourey-portfolio.netlify.app/)
+<div align="center"><a href="https://thevedantchourey-portfolio.netlify.app/"><img src="./.media/break.png"/></a></div>
+
 
 ## 👨‍💻 Languages & Tools
 
