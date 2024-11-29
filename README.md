@@ -40,7 +40,7 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 
 
 
-## Socials
+## 📧 Socials
 
 [![Website](https://img.shields.io/static/v1?style=flat-square&label=&message=Portfolio&color=0a0a0a&logo=aboutdotme&logoColor=478bff)](https://thevedantchourey-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=0a0a0a&logo=github&logoColor=478bff)](https://github.com/thevedantchourey)
