@@ -1,4 +1,4 @@
-<div align="center">[![](./.media/Hey_There-intro.png)](https://thevedantchourey-portfolio.netlify.app/)</div>
+[![](./.media/Hey_There-intro.png)](https://thevedantchourey-portfolio.netlify.app/)
 
 <p align="center">
 I am an Android Developer.<br> 
