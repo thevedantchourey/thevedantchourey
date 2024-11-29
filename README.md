@@ -51,4 +51,4 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 <br>
 
 
-<video autoPlay muted loop><source src="feat.project2.mp4" type="video/mp4" >
+<div><video autoPlay muted loop><source src="./.media/feat.project2.mp4" type="video/mp4" ></div>
