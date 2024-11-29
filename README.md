@@ -1,8 +1,3 @@
-
-https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d58b-4ace-b7fd-d5055f2f064d
-
-<br>
-
 <div align="center"><a href="https://thevedantchourey-portfolio.netlify.app/"><img src="./.media/Hey_There-intro.png"/></a></div>
 
 
