@@ -1,4 +1,4 @@
-[![](./.media/Hey_There-intro.png)](https://thevedantchourey-portfolio.netlify.app/)
+<div align="center">[![](./.media/Hey_There-intro.png)](https://thevedantchourey-portfolio.netlify.app/)</div>
 
 <p align="center">
 I am an Android Developer.<br> 
@@ -42,7 +42,7 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 
 <br>
 
-<div style="display: grid; grid-template-columns: 0.5fr 0.5fr; gap: 20px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
     <div style="justify-content: center;">
         <a href="https://github.com/thevedantchourey/Fore-Cast">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=Fore-Cast&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)">
