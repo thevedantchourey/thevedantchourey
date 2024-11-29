@@ -38,37 +38,6 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 <br>
 
 
-## Projects
-
-<br>
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-    <div style="justify-content: center;">
-        <a href="https://github.com/thevedantchourey/Fore-Cast">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=Fore-Cast&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)">
-        </a>
-    </div>
-    <div style="justify-content: center;">
-        <a href="https://github.com/thevedantchourey/tittle-tattle">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=tittle-tattle&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)">
-        </a>
-    </div>
-    <div style="justify-content: center;">
-        <a href="https://github.com/thevedantchourey/BlissMusicPlayer">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=BlissMusicPlayer&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)">
-        </a>
-    </div>
-    <div style="justify-content: center;">
-        <a href="https://github.com/thevedantchourey/HeemCream">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=HeemCream&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)">
-        </a>
-    </div>
-
-
-</div>
-
-
-
 ## Socials
 
 [![Website](https://img.shields.io/static/v1?style=flat-square&label=&message=Portfolio&color=0a0a0a&logo=aboutdotme&logoColor=478bff)](https://thevedantchourey-portfolio.netlify.app/)
