@@ -43,10 +43,26 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 <br>
 
 <div style="display: grid; grid-template-columns: 0.5fr 0.5fr; gap: 20px;">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=Fore-Cast&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)](https://github.com/thevedantchourey/Fore-Cast)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=tittle-tattle&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)](https://github.com/thevedantchourey/tittle-tattle)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=BlissMusicPlayer&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)](https://github.com/thevedantchourey/BlissMusicPlayer)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=HeemCream&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)](https://github.com/thevedantchourey/HeemCream)
+    <div style="justify-content: center;">
+        <a href="https://github.com/thevedantchourey/Fore-Cast">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=Fore-Cast&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)">
+        </a>
+    </div>
+    <div style="justify-content: center;">
+        <a href="https://github.com/thevedantchourey/tittle-tattle">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=tittle-tattle&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)">
+        </a>
+    </div>
+    <div style="justify-content: center;">
+        <a href="https://github.com/thevedantchourey/BlissMusicPlayer">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=BlissMusicPlayer&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)">
+        </a>
+    </div>
+    <div style="justify-content: center;">
+        <a href="https://github.com/thevedantchourey/HeemCream">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevedantchourey&repo=HeemCream&layout=compact&hide_border=true&title_color=478bff&text_color=478bff&icon_color=478bff&bg_color=00163d&hide_title=true)">
+        </a>
+    </div>
 
 </div>
 
