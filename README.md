@@ -50,5 +50,5 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 
 <br>
 
-
-https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d58b-4ace-b7fd-d5055f2f064d
+[
+https://github.com/thevedantchourey/thevedantchourey/assets/99128806/72bcd48d-d58b-4ace-b7fd-d5055f2f064d](https://github.com/thevedantchourey/thevedantchourey/blob/main/.media/feat.Project2.mp4)
