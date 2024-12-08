@@ -47,4 +47,4 @@ I am true engineer head but keeping hobbies is not a bad thing right? So, yeah, 
 [![Linkedin](https://img.shields.io/static/v1?style=flat-square&label=&message=LinkedIn&color=0a0a0a&logo=linkedin&logoColor=478bff)](https://github.com/thevedantchourey)
 [![Mail](https://img.shields.io/static/v1?style=flat-square&label=&message=Mail&color=0a0a0a&logo=gmail&logoColor=478bff)](mailto:vedantchourey99@gmail.com)
 
-[![](https://visitcount.itsvg.in/api?id=thevedantchourey&label=Profile%20Views&color=2089E4&icon=5&pretty=true)](https://github.com/thevedantchourey)
+[![](https://visitcount.itsvg.in/api?id=thevedantchourey&label=Profile%20Views&color=480bff&icon=5&pretty=true)](https://github.com/thevedantchourey)
